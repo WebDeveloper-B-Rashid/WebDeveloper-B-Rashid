@@ -1,3 +1,4 @@
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQGGe5Jw49Plbg/profile-displaybackgroundimage-shrink_350_1400/B4DZY_gbugGkAY-/0/1744822190215?e=1757548800&v=beta&t=gqf3UeTBMlb2YpwsP4aumibAiWRV873IsDUgQFJVqCI">
 <h1 align="center">Hi 👋, I'm Bazlur Rashid</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
